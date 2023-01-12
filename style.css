@@ -69,7 +69,7 @@ section.imagem{
 }
 section#img01{
     background-image: url(imgs/img/background001.jpg);
-    background-position: left;
+    background-position: right center;
     background-repeat: no-repeat;
     
 }
